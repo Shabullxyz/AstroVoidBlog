@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://shabullxyz.github.io/Blog-FungiTrip", // replace this with your deployed domain
   author: "Saul Edgardo Peña",
   desc: "Un diario a travez de un Viaje fungico de hongos adaptogenos y psicodelicos ",
   title: "Caminos Fúngicos",
