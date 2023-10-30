@@ -1,14 +1,13 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://shabullxyz.github.io", // replace this with your deployed domain
+  website: "https://shabullxyz.github.io/Blog-FungiTrip/", // replace this with your deployed domain
   author: "Saul Edgardo Peña",
   desc: "Un diario a travez de un Viaje fungico de hongos adaptogenos y psicodelicos ",
   title: "Caminos Fúngicos",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
-  base: "/Blog-FungiTrip",
 };
 
 export const LOCALE = ["es-ES"]; // set to [] to use the environment default
