@@ -8,7 +8,7 @@ export const SITE: Site = {
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
-  base: "/",
+  base: "/Blog-FungiTrip",
 };
 
 export const LOCALE = ["es-ES"]; // set to [] to use the environment default
