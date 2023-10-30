@@ -10,6 +10,10 @@ import { SITE } from "./src/config";
 export default defineConfig({
   site: SITE.website,
   base: SITE.base,
+  experimental: {
+    viewTransitions: true,
+    assets: true,
+  },
   integrations: [
     tailwind({
       applyBaseStyles: false,
